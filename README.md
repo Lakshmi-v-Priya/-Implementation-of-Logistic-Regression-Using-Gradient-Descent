@@ -7,7 +7,9 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+ 
+## Algorithm :
+
 1.Import the required libraries.
 
 2.Load the dataset.
@@ -18,6 +20,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 5.Define a function to plot the decision boundary. 6.Define a function to predict the Regression value.
 
+
 ## Program:
 
 ```
@@ -27,6 +30,7 @@ Developed by: Lakshmi Priya .V
 RegisterNumber:  212223220049
 */
 ```
+
 
 ```
 import pandas as pd
